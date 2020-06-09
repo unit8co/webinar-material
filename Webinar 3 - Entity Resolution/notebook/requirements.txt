@@ -1,0 +1,6 @@
+pandas
+jupyter
+recordlinkage
+pycountry
+networkx
+matplotlib
